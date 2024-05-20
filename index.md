@@ -56,4 +56,4 @@
 
 ![ほげ](./photo_image_01.jpg)
 
-# 次のページ [second.md](https://keigo0409.github.io/Second.md/)
+# 次のページ [second.md](https://keigo0409.github.io/second.md/)
